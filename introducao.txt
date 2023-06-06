@@ -1,0 +1,13 @@
+este e meu primeiro  projeto com Git
+pwd ver no terminal o direotorio do pasta donde estoy 
+cd ir para um directorio o pasta diferente 
+git init inicia 1 repositorio git no terminal 
+git config --global user.name "JoelLuzardo"
+git config --global user.email "luzardoj405@gmail.com"
+git config --list ver la lista 
+git stat mostra o status do projeto
+git add coloca os arquivos do modificado
+git branch -M master cria o ramo prncipal do proyecto 
+git branch mostra todo los ramo locais do projecto
+git remote add origin url adiciona linkid do repositoiro no git 
+git push -u origin master - empurra a nova versao do commit pro repositoiro
